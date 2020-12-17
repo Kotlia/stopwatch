@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/Kotlia/stopwatch#readme",
   "dependencies": {
-    "better-sqlite3": "^7.1.1",
-    "performance-now": "^2.1.0"
+    "better-sqlite3": "^7.1.1"
   }
 }
