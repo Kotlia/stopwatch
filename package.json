@@ -1,5 +1,5 @@
 {
-  "name": "stopwatch",
+  "name": "@kotlia/stopwatch",
   "version": "1.0.0",
   "description": "",
   "main": "src/Stopwatch.js",
