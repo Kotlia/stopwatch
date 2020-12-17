@@ -1,0 +1,23 @@
+{
+  "name": "stopwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kotlia/stopwatch.git"
+  },
+  "author": "Kotlia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kotlia/stopwatch/issues"
+  },
+  "homepage": "https://github.com/Kotlia/stopwatch#readme",
+  "dependencies": {
+    "performance-now": "^2.1.0"
+  }
+}
